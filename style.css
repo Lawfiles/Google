@@ -49,11 +49,13 @@ input {
 }
 
 button {
-    margin-top: 20px;
+    margin-top: 25px;
     border: none;
-    padding: 6px;
+    padding: 8px;
     border-radius: 5px;
+    font-family: Arial;
     font-size: 14px;
+    margin: 15px;
     
 }
 
